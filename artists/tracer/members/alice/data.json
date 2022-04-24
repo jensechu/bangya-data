@@ -1,0 +1,17 @@
+{
+	"stageName": "Alice",
+	"fullName": "Cheon Jaeyoung",
+	"koreanName": "천재영",
+	"koreanStageName": "앨리스",
+	"dob": "2002-02-20",
+	"group": "TRACER",
+	"country": "South Korea",
+	"birthplace": "",
+	"otherGroups": "",
+	"gender": "F",
+	"soompiData": {
+		"slug": "alice",
+		"tag": ""
+	},
+	"isActive": true
+}

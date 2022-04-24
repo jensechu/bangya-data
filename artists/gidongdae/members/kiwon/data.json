@@ -1,0 +1,17 @@
+{
+	"stageName": "Kiwon",
+	"fullName": "Lee Kiwon",
+	"koreanName": "이기원",
+	"koreanStageName": "기원",
+	"dob": "1996-06-27",
+	"group": "GIDONGDAE",
+	"country": "South Korea",
+	"birthplace": "",
+	"otherGroups": "RAINZ",
+	"gender": "M",
+	"soompiData": {
+		"slug": "kiwon",
+		"tag": ""
+	},
+	"isActive": true
+}

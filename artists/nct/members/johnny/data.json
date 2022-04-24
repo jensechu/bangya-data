@@ -1,0 +1,17 @@
+{
+	"stageName": "Johnny",
+	"fullName": "John Seo",
+	"koreanName": "존 서",
+	"koreanStageName": "쟈니",
+	"dob": "1995-02-09",
+	"group": "NCT",
+	"country": "USA",
+	"birthplace": "",
+	"otherGroups": "",
+	"gender": "M",
+	"soompiData": {
+		"slug": "johnny",
+		"tag": ""
+	},
+	"isActive": true
+}

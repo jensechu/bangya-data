@@ -1,0 +1,17 @@
+{
+	"stageName": "Arthur",
+	"fullName": "Jang Yunho",
+	"koreanName": "장윤호",
+	"koreanStageName": "아서",
+	"dob": "2000-04-15",
+	"group": "Kingdom",
+	"country": "South Korea",
+	"birthplace": "",
+	"otherGroups": "VARSITY",
+	"gender": "M",
+	"soompiData": {
+		"slug": "arthur",
+		"tag": ""
+	},
+	"isActive": true
+}

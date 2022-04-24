@@ -1,0 +1,17 @@
+{
+	"stageName": "Alice",
+	"fullName": "Song Joohee",
+	"koreanName": "송주희",
+	"koreanStageName": "앨리스",
+	"dob": "1990-03-21",
+	"group": "Hello Venus",
+	"country": "South Korea",
+	"birthplace": "",
+	"otherGroups": "",
+	"gender": "F",
+	"soompiData": {
+		"slug": "alice",
+		"tag": ""
+	},
+	"isActive": true
+}

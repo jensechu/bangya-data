@@ -1,0 +1,17 @@
+{
+	"stageName": "Steve",
+	"fullName": "Lim Dohyun",
+	"koreanName": "임도현",
+	"koreanStageName": "스티브",
+	"dob": "2002-03-09",
+	"group": "YOUNITE",
+	"country": "South Korea",
+	"birthplace": "USA",
+	"otherGroups": "",
+	"gender": "M",
+	"soompiData": {
+		"slug": "steve",
+		"tag": ""
+	},
+	"isActive": true
+}

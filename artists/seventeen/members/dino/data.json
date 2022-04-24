@@ -1,0 +1,17 @@
+{
+	"stageName": "Dino",
+	"fullName": "Lee Chan",
+	"koreanName": "이찬",
+	"koreanStageName": "디노",
+	"dob": "1999-02-11",
+	"group": "Seventeen",
+	"country": "South Korea",
+	"birthplace": "",
+	"otherGroups": "",
+	"gender": "M",
+	"soompiData": {
+		"slug": "dino",
+		"tag": ""
+	},
+	"isActive": true
+}
