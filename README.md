@@ -1,5 +1,5 @@
 # bangya-data
-bangya bangya bangya 
+bangya bangya bangya! The modern nugu/bias game.
 
 # Please help!
 To fill out a group please clone this repository, fill out the information, and submit a pull-request. 
