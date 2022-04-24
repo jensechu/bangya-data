@@ -9,6 +9,7 @@ To fill out a group please clone this repository, fill out the information, and 
 * maximum three images each group and member `images/` folder
 
 **DON'T SEE YOUR GROUP?**
+
 Feel free to copy another group's directory and edit the group and member's `data.json` files and folder names.
 
 # Image Specs
