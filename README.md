@@ -14,6 +14,8 @@ Feel free to copy another group's directory and edit the group and member's `dat
 
 # Image Specs
 * 500x500px
+* Must be .png
 * Members: CLEAR shot of the face. Shoulders up.
 * Groups: CLEAR shot of all members.
 * file called `image_template.png` can be used to fill it in
+* Pictures should be named `0.png`, `1.png`, etc.
