@@ -1,17 +1,13 @@
 {
-	"stageName": "TODO",
-	"fullName": "TODO",
-	"koreanName": "이동혁",
-	"koreanStageName": "해찬",
-	"dob": "2000-06-06",
+	"stageName": "YangYang",
+	"fullName": "Liu Yangyang",
+	"koreanName": "",
+	"koreanStageName": "양양",
+	"dob": "2000-10-10",
 	"group": "NCT",
-	"country": "South Korea",
+	"country": "Taiwan",
 	"birthplace": "",
-	"otherGroups": "",
+	"otherGroups": "WayV",
 	"gender": "M",
-	"soompiData": {
-		"slug": "haechan",
-		"tag": ""
-	},
 	"isActive": true
 }

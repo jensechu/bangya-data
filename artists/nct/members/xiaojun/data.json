@@ -1,17 +1,13 @@
 {
-	"stageName": "TODO",
-	"fullName": "TODO",
-	"koreanName": "이동혁",
+	"stageName": "Xiao Jun",
+	"fullName": "Xiao Dejun",
+	"koreanName": "소덕준",
 	"koreanStageName": "해찬",
 	"dob": "2000-06-06",
 	"group": "NCT",
-	"country": "South Korea",
+	"country": "China",
 	"birthplace": "",
-	"otherGroups": "",
+	"otherGroups": "WayV",
 	"gender": "M",
-	"soompiData": {
-		"slug": "haechan",
-		"tag": ""
-	},
 	"isActive": true
 }
